@@ -4,9 +4,11 @@
 
 🔭 I’m currently working on Zallpy Digital | BMW Partner.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ricardo-n-silva/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-silva-ricardo)
+
 <!--
-**keldju/keldju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**silva-ricardo/silva-ricardo 
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
