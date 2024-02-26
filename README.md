@@ -1,6 +1,7 @@
 ### Hi, I'm Ricardo Silva 👋
 
 ✔️ Young passionate about technology and software / apps development.
+✔️ Mobile App Developer | Dart / Flutter
 
 💻 I’m currently working on Zallpy Digital | BMW Partner as Flutter Developer.
 
