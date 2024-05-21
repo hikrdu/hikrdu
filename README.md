@@ -1,11 +1,12 @@
 ### Hi, I'm Ricardo Silva 👋
 
-<!-- ✔️ Young passionate about technology and software / apps development.
+✔️ Young passionate about technology and software / apps development.
 ✔️ Mobile App Developer | Dart / Flutter
 
+<!-- 
 💻 I’m currently working on Zallpy Digital | BMW Partner as Flutter Developer.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-silva-ricardo) -->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-silva-ricardo)
 
 <!--
 **silva-ricardo/silva-ricardo 
