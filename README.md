@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Ricardo Silva and I'm a Mobile App Developer, from Brazil, passionate about technology and software / apps development.</h4>
+<h4 align="left">I'm Ricardo Silva, a Mobile App Developer from Brazil with a passion for technology and software development. I specialize in Flutter and Dart, alongside a strong foundation in JavaScript, TypeScript, and various other technologies like Android, Azure, and Docker. My goal is to create innovative applications that enhance user experiences. Let’s connect and explore new opportunities together!.</h4>
 
 ###
 
