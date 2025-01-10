@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  title="Flutter" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  title="Flutter" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  title="Dart" />
   <img width="12" />
@@ -163,12 +163,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/-silva-ricardo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.discordapp.com/users/silvaricardo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="71" height="40" alt="discord logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/-silva-ricardo" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" width="71" height="40" alt="linkedin logo"/></a>
+  <a href="https://www.discordapp.com/users/silvaricardo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="71" height="40" alt="discord logo"  /></a>
 </div>
 
 ###
