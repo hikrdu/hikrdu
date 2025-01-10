@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Ricardo Silva, a Mobile App Developer from Brazil with a passion for technology and software development. I specialize in Flutter and Dart, alongside a strong foundation in JavaScript, TypeScript, and various other technologies like Android, Azure, and Docker. My goal is to create innovative applications that enhance user experiences. Let’s connect and explore new opportunities together!.</h4>
+<h4 align="left">I'm Ricardo Silva, an experienced and passionate software developer with over 10 years of expertise in creating high-quality applications. Possesses a strong background in mobile application development and cloud technologies, with a proven track record of designing, developing, and maintaining robust and scalable applications. For the past 4+ years, has specialized in using Flutter and Dart to deliver cross-platform solutions, while also leveraging proficiency in other platforms and programming languages.</h4>
 
 ###
 
